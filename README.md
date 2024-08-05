@@ -38,6 +38,5 @@ $ npm run dev
   - Tailwind
   - axios
 
-### To create new Todo pls always provide title as it's required property, another props like description and file are optional (validation only on backend part, on front part just throwing logs)
-
+- To create new Todo pls always provide title as it's required property, another props like description and file are optional (validation only on backend part, on front part just throwing logs)
 - File input accepts only files with image/\* format => to download particular todo's file just click on file name
